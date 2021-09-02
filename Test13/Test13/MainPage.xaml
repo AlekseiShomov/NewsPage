@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Test13"
+             x:Class="Test13.MainPage">
+
+
+
+
+    <StackLayout>
+        <StackLayout x:Name="Iner" IsVisible="True">
+            <Label Text="Проверьте интернет соединение"/>
+            <Button Clicked="Inb" Text="Обновить"/>
+        </StackLayout>
+        <StackLayout x:Name="Ins" IsVisible="True">
+            <Label Text="Загрузка..."/>
+        </StackLayout>
+        <StackLayout IsVisible="False" x:Name="Intr">
+            
+        <ListView x:Name="List1"
+              HasUnevenRows="True"
+              ItemsSource="{Binding NewsListOne1}"
+                 ItemTapped ="Selected1"
+                 
+              >
+        <ListView.ItemTemplate >
+            <DataTemplate >
+                <ViewCell >
+                    <ViewCell.View >
+                               
+                            <StackLayout x:Name="st"  Orientation="Horizontal" Padding="5,5,5,5" BackgroundColor="{Binding bg}" >
+                                <Image Source="{Binding uri}" WidthRequest="80"/>
+                                    <StackLayout >
+                                        <Label Text="{Binding text1}" FontSize="18" />
+                                        <Label Text="{Binding text2}" />
+                                </StackLayout>
+                            </StackLayout>
+                                
+                            </ViewCell.View>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+    
+    </StackLayout>
+    </StackLayout>
+</ContentPage>

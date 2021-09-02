@@ -1,0 +1,13 @@
+C:\Programmiring\Xamarin\Test13\Test13\Test13\bin\Debug\netstandard2.0\Test13.deps.json
+C:\Programmiring\Xamarin\Test13\Test13\Test13\bin\Debug\netstandard2.0\Test13.dll
+C:\Programmiring\Xamarin\Test13\Test13\Test13\bin\Debug\netstandard2.0\Test13.pdb
+C:\Programmiring\Xamarin\Test13\Test13\Test13\obj\Debug\netstandard2.0\Test13.csprojAssemblyReference.cache
+C:\Programmiring\Xamarin\Test13\Test13\Test13\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Programmiring\Xamarin\Test13\Test13\Test13\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Programmiring\Xamarin\Test13\Test13\Test13\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Programmiring\Xamarin\Test13\Test13\Test13\obj\Debug\netstandard2.0\Test13.csproj.CoreCompileInputs.cache
+C:\Programmiring\Xamarin\Test13\Test13\Test13\obj\Debug\netstandard2.0\Test13.AssemblyInfoInputs.cache
+C:\Programmiring\Xamarin\Test13\Test13\Test13\obj\Debug\netstandard2.0\Test13.AssemblyInfo.cs
+C:\Programmiring\Xamarin\Test13\Test13\Test13\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Programmiring\Xamarin\Test13\Test13\Test13\obj\Debug\netstandard2.0\Test13.dll
+C:\Programmiring\Xamarin\Test13\Test13\Test13\obj\Debug\netstandard2.0\Test13.pdb
